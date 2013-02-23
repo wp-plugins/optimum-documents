@@ -26,7 +26,10 @@ Microsoft's Office Document Viewer is an attractive way to embed Office document
 
 If you're needing to embed a PDF or an Office 2003 document, the Google Document Viewer provides an easy to use interface that loads quickly and contains a simple feature set.
 
-This is a simple plugin that's easy to use, but if anyone may need help, contact us via the [Support](http://wordpress.org/support/plugin/optimum-documents “Get Support”) page.
+This is a simple plugin that's easy to use, but if anyone may need help, contact us via the support page.
+
+[Support]
+(http://wordpress.org/support/plugin/optimum-documents “Get Support”).
 
 == Installation ==
 
