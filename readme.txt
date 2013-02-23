@@ -12,7 +12,7 @@ Attach documents to any page or post type with Microsoft's Office Web Viewer or 
 
 == Description ==
 
-==What is Optimum Documents all about?==
+=What is Optimum Documents all about?=
 
 **Optimum Documents** allows WordPress users to embed documents using either the Microsoft Office Web Apps Viewer or the Google Document viewer. Optimum Documents only requires a url parameter, but provides the option to specify height and width.
 
