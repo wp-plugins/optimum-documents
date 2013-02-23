@@ -28,9 +28,6 @@ If you're needing to embed a PDF or an Office 2003 document, the Google Document
 
 This is a simple plugin that's easy to use, but if anyone may need help, contact us via the support page.
 
-[Support]
-(http://wordpress.org/support/plugin/optimum-documents “Get Support”).
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
