@@ -12,21 +12,21 @@ Attach documents to any page or post type with Microsoft's Office Web Viewer or 
 
 == Description ==
 
-=What is Optimum Documents all about?=
+= What is Optimum Documents all about? =
 
 **Optimum Documents** allows WordPress users to embed documents using either the Microsoft Office Web Apps Viewer or the Google Document viewer. Optimum Documents only requires a url parameter, but provides the option to specify height and width.
 
 What makes Optimum different than other similar plugins is that the options given allow a user to embed quite a few more document types. Read more about the different options that the Office and Google document viewers provide below.
 
-=Office Document Viewer=
+= Office Document Viewer =
 
 Microsoft's Office Document Viewer is an attractive way to embed Office documents of the DOCX, PPTX, and XLSX formats. The Office Viewer has a lot of neat features built into it's UI. Because of the limited support for extended document types, we've included the Google Document Viewer to pick up the slack.
 
-=Google Document Viewer=
+= Google Document Viewer =
 
 If you're needing to embed a PDF or an Office 2003 document, the Google Document Viewer provides an easy to use interface that loads quickly and contains a simple feature set.
 
-This is a simple plugin that's easy to use, but if anyone may need help, contact us via the [support](http://wordpress.org/support/plugin/optimum-documents “Get Support”) page.
+This is a simple plugin that's easy to use, but if anyone may need help, contact us via the [Support](http://wordpress.org/support/plugin/optimum-documents “Get Support”) page.
 
 == Installation ==
 
