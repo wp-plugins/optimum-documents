@@ -1,7 +1,7 @@
 <?php
 
 function register_odocs_menu_page() {
-   $icon_url = WP_PLUGIN_DIR.'/optimum-docs/icon-16x16.png';
+   $icon_url = WP_PLUGIN_DIR.'/optimum-documents/icon-16x16.png';
    $position = NULL;
    add_options_page('Optimum Documents Options',
    				 'Optimum Documents','manage_options',

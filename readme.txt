@@ -1,5 +1,5 @@
 === Optimum Documents ===
-Contributors: dallasacook
+Contributors: CookWorks
 Donate link: http://cookworks.co/
 Tags: comments, spam
 Requires at least: 3.0.1

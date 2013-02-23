@@ -9,7 +9,7 @@ Author URI: http://cookworks.co
 License: GPL2
 */
 
-include(WP_PLUGIN_DIR.'/optimum-docs/admin.php');
+include(WP_PLUGIN_DIR.'/optimum-documents/admin.php');
 
 function add_office_viewer( $atts ) {
 	extract( shortcode_atts( array(
