@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Allows a user to attach documents with Microsoft's Office Web Viewer or Google Document Viewer
+Attach documents to any page or post type with Microsoft's Office Web Viewer or Google's Document Viewer.
 
 == Description ==
 
